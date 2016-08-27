@@ -1,5 +1,3 @@
-// 2015CSB1021
-// NAMAN GOYAL
 #include <iostream>
 #include <fstream>
 #include <bitset>
